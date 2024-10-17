@@ -1,0 +1,41 @@
+#Dice roll app
+import useful_tools
+dice = in(input("Dice"))
+
+#dice roll function
+def dice_roll(dice, sides):
+
+roll []
+for i in range(0, dice):
+    face = random.randint(1,sides))
+    roll.append(face)
+
+
+
+if (dice <= 0):
+    print("Must have at leas one dice!")
+    quit()
+
+sides + int(input("Sides: "))
+if (sides <= 0):
+
+if (sides <= 0):
+    print("Must have at least one sidef!")
+    quit()
+
+roll = dice_roll(dice,sides)
+
+
+for i in range(0, dice):
+    face = random.randint(1,sides))
+    roll.append(face)
+print(roll)
+
+
+random.randint(1,sides))
+
+
+
+
+print(useful_tools.roll_dice(10)):
+
